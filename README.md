@@ -39,16 +39,16 @@ The glove leverages the **MPU6050** IMU (3-axis accelerometer + 3-axis gyroscope
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
-### 🖥️ Hardware
+### Hardware
 - Arduino Uno
 - MPU6050 Sensor
 - Glove (for mounting)
 - Jumper wires
 - USB Cable
 
-### 💻 Software
+### Software
 - Arduino IDE
 - Python 3.x
 - Python Libraries:
